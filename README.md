@@ -1,5 +1,6 @@
 #PROJECT_2
-# Pattern Generator and Number Analyzer
+#Pattern Generator and Number Analyzer
+ [Pattern Generator and Number Analyzer](https://github.com/bhagirathvichhi018-create/python/blob/main/project_2.py)
 
 
 A simple Python project that generates number patterns and analyzes numbers within a given range. This project is designed for beginners to practice Python concepts such as loops, conditions, and user input.
